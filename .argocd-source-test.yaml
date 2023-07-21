@@ -1,5 +1,0 @@
-source:
-  path: dep.yaml
-  parameters:
-    - name: COUNT
-      value: "2"

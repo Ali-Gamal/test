@@ -1,0 +1,3 @@
+parameters:
+  - name: APP-NAME
+    value: my-app
